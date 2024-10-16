@@ -1,3 +1,4 @@
+
 # Yu-Song: Python Programming Exercises
 
 This repository contains a series of Python programming exercises designed to build foundational programming skills, ranging from basic arithmetic to more complex data manipulation tasks. The exercises are organized in a Jupyter Notebook format, offering a hands-on approach to learning.
