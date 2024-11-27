@@ -1,51 +1,66 @@
+
 # Yu-Song: Python Programming Exercises
 
-This repository contains a series of Python programming exercises designed to build foundational programming skills, ranging from basic arithmetic to more complex data manipulation tasks. The exercises are organized in a Jupyter Notebook format, offering a hands-on approach to learning.
+This repository offers a collection of Python programming exercises designed to build foundational skills, ranging from basic arithmetic to complex data manipulation tasks. The exercises are presented in Jupyter Notebook format, providing an interactive learning experience.
 
 ## Table of Contents
-1. Greeting Function
-2. Basic Arithmetic Operations
-3. String Formatting
-4. List Manipulation
-5. Dictionary Usage
-6. Control Flow with Conditionals
-7. Simple Grade Averaging
-8. Basic Calculator with User Input
 
-## Features
+- [Prerequisites](#prerequisites)
+- [Installation and Setup](#installation-and-setup)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-- **Greeting Function**: Learn how to define and call simple Python functions.
-- **Basic Arithmetic**: Perform arithmetic operations using Python operators.
-- **String Manipulation**: Explore string formatting using f-strings.
-- **List and Dictionary Operations**: Work with essential data structures.
-- **Control Flow**: Practice using if-else statements for conditional logic.
-- **Grade Averaging**: Calculate student grades using Python functions and dictionaries.
-- **Basic Calculator**: Build a simple calculator that takes user input and performs arithmetic operations with error handling.
-
-## Requirements
+## Prerequisites
 
 - Python 3.6 or later
 - Jupyter Notebook or a compatible Python IDE
 
-## Getting Started
+## Installation and Setup
 
 1. **Clone the Repository**:
+
    ```bash
    git clone https://github.com/Song-Yu-0128/Yu-Song.git
+   ```
 
-## Install Dependencies: No additional dependencies are required other than Python 3.6 or later. However, it is recommended to install a Jupyter Notebook environment for running the .ipynb file.
+2. **Navigate to the Project Directory**:
 
-To install Jupyter Notebook: pip install notebook
+   ```bash
+   cd Yu-Song
+   ```
 
-## Run the Notebook:
+3. **Install Jupyter Notebook** (if not already installed):
 
-Open the python exercise (1).ipynb file in Jupyter Notebook or your preferred Python environment.
-Execute each cell to interact with the exercises.
+   ```bash
+   pip install notebook
+   ```
 
-## How to Use
-Each section of the notebook is independent, allowing you to run one task at a time.
-Modify and experiment with the code by changing variables, adding new functions, and practicing the exercises provided in each section.
+## Usage
+
+1. **Launch Jupyter Notebook**:
+
+   ```bash
+   jupyter notebook
+   ```
+
+2. **Open the Notebook**:
+
+   In the Jupyter interface, open the `python exercise (1).ipynb` file.
+
+3. **Interact with the Exercises**:
+
+   - Execute each cell sequentially to work through the exercises.
+   - Modify variables and functions to experiment and deepen your understanding.
+
+## Contributing
+
+Contributions are welcome! If you have suggestions or improvements, please fork the repository, create a new branch, and submit a pull request.
 
 ## License
+
 This project is open-source and available for educational purposes. Feel free to use, modify, and share.
 
+---
+
+Happy Coding!
